@@ -7,3 +7,4 @@ The way this program works is that
 * Then is fethes the url/link of all those propersites
 * Then beautifulsoup in is used to get the details about the individaul properties, like - rent, bhk, type, address, ulr/link.
 * Then all those deatials a saved into a .csv file using pandas.
+I have also attached the files from the previous result(links.txt, property_data.csv) to help to understand what will be the output like.
